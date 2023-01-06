@@ -5,3 +5,4 @@ Feature: Simple Api Test
     When method GET
     When print response
     Then status 200
+#FOLLOWING VIDEO: 5
